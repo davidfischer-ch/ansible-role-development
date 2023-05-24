@@ -1,6 +1,4 @@
 programming_packages:
-  - bzr
-  - gedit-developer-plugins
   - gitg
   - meld
   - shellchecks
