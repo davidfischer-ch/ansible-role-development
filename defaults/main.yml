@@ -3,3 +3,4 @@ programming_packages:
   - gedit-developer-plugins
   - gitg
   - meld
+  - shellchecks
