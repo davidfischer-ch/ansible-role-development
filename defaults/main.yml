@@ -1,4 +1,4 @@
 programming_packages:
   - gitg
   - meld
-  - shellchecks
+  - shellcheck
