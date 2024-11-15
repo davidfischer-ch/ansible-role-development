@@ -3,8 +3,10 @@
 # FIXME install package control, gitgutter ... configure ...
 
 - name: Install programming packages
-  package:
+  ansible.builtin.package:
     name: '{{ programming_packages }}'
     state: present
-  become: yes
+  become: true
   tags: [development, packages]
+
+...
