@@ -1,6 +1,8 @@
 ---
 
 programming_packages:
+  - git-core
+  - git-lfs
   - gitg
   - meld
   - shellcheck
